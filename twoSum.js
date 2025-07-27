@@ -27,3 +27,4 @@ var twoSum = function(nums, target) {
 
 const questionOne = twoSum([2, 7, 11, 15], 13);
 console.log(questionOne);
+https://playcode.io/javascript/map-set

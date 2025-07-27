@@ -87,3 +87,22 @@ a.out
 
 # VS Code settings
 .vscode/
+
+# Compiled binary files
+*.exe
+*.out
+*.o
+*.obj
+
+# Backup and temporary files
+*~
+*.log
+
+# Visual Studio files (if using)
+.vs/
+*.vcxproj*
+*.sln
+
+# macOS/Linux files
+.DS_Store
+

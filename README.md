@@ -14,15 +14,6 @@
 5. - [Palindrome](https://leetcode.com/problems/palindrome-number/description/)
    - [Palindrome](./palindrome.js)
 ---
-# Python
-1. - []()
-   - []()
-2. - []()
-   - []()
-3. - []()
-   - []()
-4. - []()
-   - []()
-5. - []()
-   - []()
----
+
+g++ heloo.cpp -o heloo.exe
+./heloo.exe
